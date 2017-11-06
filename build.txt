@@ -1,0 +1,5 @@
+author = Ihaveacat3321
+version = 0.1
+displayName = Simply Additions
+hideCode = true
+hideResources = true

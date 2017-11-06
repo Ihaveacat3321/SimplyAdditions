@@ -1,0 +1,5 @@
+Simply Additions is just that, simple additions. New weapons, armor, tools and items.
+
+Version 0.1
+-Added Mythril Shield
+-Added Short Excalibur
